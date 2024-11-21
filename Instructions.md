@@ -86,7 +86,7 @@ All of the screws mount directly into the plastic of the model. You may want to 
 
 [<img src="images/Assembly/HW/Magnets_Face.jpeg" height ="256">](images/Assembly/HW/Magnets_Face.jpeg)
 [<img src="images/Assembly/HW/Magnets_Main_Case.jpeg" height ="256">](images/Assembly/HW/Magnets_Main_Case.jpeg)
-[<img src="images/Assembly/HW/Face_Screws.jpeg" width="256">](images/Assembly/HW/FaceScrews.jpeg)
+[<img src="images/Assembly/HW/Face_Screws.jpeg" width="256">](images/Assembly/HW/Face_Screws.jpeg)
 [<img src="images/Assembly/HW/Main_Case_Screws.jpeg" width="256">](images/Assembly/HW/Main_Case_Screws.jpeg)
 
 <a name="Wiring"></a>
